@@ -1,4 +1,4 @@
-# from PyTorch forum 
+# from PyTorch forum https://discuss.pytorch.org/t/check-gradient-flow-in-network/15063/7?u=t170815518
 def plot_grad_flow(named_parameters):
     ave_grads = []
     layers = []
